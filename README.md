@@ -1,2 +1,4 @@
 # MyProject
 TestProject
+new string
+
