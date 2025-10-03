@@ -1,4 +1,0 @@
-# MyProject
-TestProject
-new string
-
